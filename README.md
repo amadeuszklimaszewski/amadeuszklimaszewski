@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amadeuszklimaszewski
 - 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning FastAPI, SQLAlchemy and design patterns
+- 🌱 I’m currently learning FastAPI and design patterns
 - 📫 How to reach me amadeusz.klimaszewski@gmail.com
 
 <!---
